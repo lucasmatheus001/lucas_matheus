@@ -1,6 +1,7 @@
-# Lucas Matheus Rocha
+<h1 align="center"> Olá Pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Me chamo Lucas Matheus Rocha</h1>
 
-👋 Olá, me chamo Lucas Matheus, sou desenvolvedor de sites e sistemas. Tenho 22 anos, sou entusiasta pela tecnologia e apaixonado por programação.
+
+Sou desenvolvedor de sites e sistemas. Tenho 22 anos, sou entusiasta pela tecnologia e apaixonado por programação.
 
 Comecei a aprender programação aos meus 17 anos ("o velho portugol e depois C"), Logo depois comecei a faculdade de Ciências da computação na UFPI,onde aprendi e ainda estou aprendendo bons fundamentos e as estruturas básicas para o desenvolvimento de software e sistemas.Pretendendo futuramente atuar na área e aplicar essas habilidades adquiridas.
  
