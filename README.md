@@ -14,7 +14,7 @@ Comecei a aprender programação aos meus 17 anos ("o velho portugol e depois C"
 
 <div>
   <a href="https://github.com/lucasmatheus001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisMarchio03&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmatheus001&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMarchio03&layout=compact&langs_count=7&theme=material-palenight"/>
 </div>
 
