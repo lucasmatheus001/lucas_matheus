@@ -1,4 +1,4 @@
-<h1 align="center"> Olá Pessoal <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px"; height="50px">, Me chamo Lucas Matheus Rocha</h1
+<h1 align="center"> Olá Pessoal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"; height="50px">, Me chamo Lucas Matheus Rocha</h1
 
 
 Sou desenvolvedor de sites e sistemas. Tenho 23 anos, sou entusiasta pela tecnologia e apaixonado por programação.
